@@ -355,6 +355,7 @@ li.navItemWide {
 }
 /* END HIDE FROM IE-MAC */
 .event_button {
+	background-color:#61518f;
 	-moz-box-shadow:inset 0px 1px 0px 0px #4f74a1;
 	-webkit-box-shadow:inset 0px 1px 0px 0px #4f74a1;
 	box-shadow:inset 0px 1px 0px 0px #4f74a1;
